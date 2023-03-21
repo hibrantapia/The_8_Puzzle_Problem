@@ -16,7 +16,7 @@
 <h2 align="left">Extra Stuff</h3>
 
 - You can modify the code in line 4 to modify the initial_state = (4, 3, 2, 1, 5, 6, 7, 8, 0) to any state you want.
-- You can modify the code in line 4 to modify the goal_state = (1, 2, 3, 4, 5, 6, 7, 8, 0) to any state you want.
+- You can modify the code in line 7 to modify the goal_state = (1, 2, 3, 4, 5, 6, 7, 8, 0) to any state you want.
 
 
 #### Check out my social stuff for more:
