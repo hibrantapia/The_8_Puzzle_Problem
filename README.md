@@ -3,7 +3,7 @@
 #### College Exercise using SimpleAI.
 
 <h3 align="center">The 8 Puzzle Problem</h3>
-<p align="center"> <img src = "/Extra_Stuff/8_puzzle.jpg" width = 450> </p>
+<p align="center"> <img src = "/Extra_Stuff/8_puzzle.png" width = 450> </p>
 
 <h2 align="center">Running the Program</h3>
 <p align="center"> <img src = "/Extra_Stuff/example1.png" width = 550> </p>
