@@ -10,7 +10,7 @@
 
 <h2 align="left">Recipe</h2>
 
-1. In this simple GitHub Repository, I uploaded 1 file, containing the resource code to resolve any 8 puzzle problem (3x3).
+1. In this simple GitHub Repository, I uploaded 1 file, containing the source code to resolve any 8 puzzle problem (3x3).
 2. You don't need anything special to run the programs.
 
 <h2 align="left">Extra Stuff</h3>
